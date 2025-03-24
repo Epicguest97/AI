@@ -1,0 +1,501 @@
+id,user_id,product_id,page_url,interaction_type,visit_count,last_visited,created_at,interaction_score,notification_type,message
+1,1004,203,/product/205,purchase,10,2025-03-23 15:16:59,2025-03-23 15:16:59,1.0,,
+2,1002,204,/product/204,add_to_cart,1,2025-03-07 15:16:59,2025-03-23 15:16:59,0.09,Email,Hey User 1002! We noticed you haven’t visited in a while. Check out our latest offers!
+3,1001,202,/product/203,click,2,2025-03-17 15:16:59,2025-03-23 15:16:59,0.19,Push,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+4,1002,204,/product/202,add_to_cart,5,2025-03-12 15:16:59,2025-03-23 15:16:59,0.42,SMS,Hey User 1002! We noticed you haven’t visited in a while. Check out our latest offers!
+5,1004,205,/product/202,add_to_cart,8,2025-03-06 15:16:59,2025-03-23 15:16:59,0.65,,
+6,1002,205,/product/204,add_to_cart,3,2025-03-17 15:16:59,2025-03-23 15:16:59,0.27,Push,Hey User 1002! We noticed you haven’t visited in a while. Check out our latest offers!
+7,1001,205,/product/204,purchase,1,2025-03-19 15:16:59,2025-03-23 15:16:59,0.12,SMS,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+8,1004,204,/product/203,purchase,2,2025-02-23 15:16:59,2025-03-23 15:16:59,0.17,Email,Hey User 1004! We noticed you haven’t visited in a while. Check out our latest offers!
+9,1001,203,/product/201,add_to_cart,4,2025-03-04 15:16:59,2025-03-23 15:16:59,0.33,SMS,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+10,1001,201,/product/203,purchase,1,2025-02-28 15:16:59,2025-03-23 15:16:59,0.09,Email,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+11,1001,202,/product/204,click,8,2025-03-09 15:16:59,2025-03-23 15:16:59,0.65,,
+12,1004,202,/product/202,view,7,2025-03-06 15:16:59,2025-03-23 15:16:59,0.57,,
+13,1002,201,/product/204,view,2,2025-03-11 15:16:59,2025-03-23 15:16:59,0.18,Email,Hey User 1002! We noticed you haven’t visited in a while. Check out our latest offers!
+14,1001,204,/product/204,add_to_cart,2,2025-03-19 15:16:59,2025-03-23 15:16:59,0.2,SMS,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+15,1001,202,/product/204,click,5,2025-02-24 15:16:59,2025-03-23 15:16:59,0.41,Push,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+16,1005,204,/product/201,view,3,2025-03-10 15:16:59,2025-03-23 15:16:59,0.25,SMS,Hey User 1005! We noticed you haven’t visited in a while. Check out our latest offers!
+17,1002,205,/product/205,add_to_cart,3,2025-03-21 15:16:59,2025-03-23 15:16:59,0.31,,
+18,1005,201,/product/205,purchase,2,2025-03-12 15:16:59,2025-03-23 15:16:59,0.18,Push,Hey User 1005! We noticed you haven’t visited in a while. Check out our latest offers!
+19,1002,204,/product/205,view,2,2025-03-10 15:16:59,2025-03-23 15:16:59,0.17,Push,Hey User 1002! We noticed you haven’t visited in a while. Check out our latest offers!
+20,1005,204,/product/204,click,5,2025-03-12 15:16:59,2025-03-23 15:16:59,0.42,Push,Hey User 1005! We noticed you haven’t visited in a while. Check out our latest offers!
+21,1001,203,/product/204,click,1,2025-03-11 15:16:59,2025-03-23 15:16:59,0.1,Push,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+22,1001,204,/product/205,click,1,2025-03-15 15:16:59,2025-03-23 15:16:59,0.1,SMS,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+23,1004,203,/product/201,view,10,2025-03-10 15:16:59,2025-03-23 15:16:59,0.81,,
+24,1004,202,/product/204,add_to_cart,4,2025-02-21 15:16:59,2025-03-23 15:16:59,0.33,SMS,Hey User 1004! We noticed you haven’t visited in a while. Check out our latest offers!
+25,1002,205,/product/204,click,8,2025-03-01 15:16:59,2025-03-23 15:16:59,0.65,,
+26,1005,202,/product/203,purchase,10,2025-03-22 15:16:59,2025-03-23 15:16:59,0.9,,
+27,1004,204,/product/203,view,8,2025-03-15 15:16:59,2025-03-23 15:16:59,0.66,,
+28,1002,205,/product/202,view,7,2025-03-10 15:16:59,2025-03-23 15:16:59,0.57,,
+29,1002,205,/product/203,purchase,5,2025-03-22 15:16:59,2025-03-23 15:16:59,0.5,,
+30,1004,202,/product/204,view,8,2025-03-14 15:16:59,2025-03-23 15:16:59,0.66,,
+31,1003,202,/product/202,view,2,2025-02-21 15:16:59,2025-03-23 15:16:59,0.17,Push,Hey User 1003! We noticed you haven’t visited in a while. Check out our latest offers!
+32,1003,202,/product/204,purchase,2,2025-02-27 15:16:59,2025-03-23 15:16:59,0.17,Push,Hey User 1003! We noticed you haven’t visited in a while. Check out our latest offers!
+33,1004,201,/product/201,purchase,2,2025-03-05 15:16:59,2025-03-23 15:16:59,0.17,Push,Hey User 1004! We noticed you haven’t visited in a while. Check out our latest offers!
+34,1002,205,/product/203,click,10,2025-03-09 15:16:59,2025-03-23 15:16:59,0.81,,
+35,1001,202,/product/205,view,8,2025-03-15 15:16:59,2025-03-23 15:16:59,0.66,,
+36,1004,205,/product/205,view,7,2025-03-18 15:16:59,2025-03-23 15:16:59,0.59,,
+37,1005,203,/product/204,add_to_cart,5,2025-03-16 15:16:59,2025-03-23 15:16:59,0.43,Push,Hey User 1005! We noticed you haven’t visited in a while. Check out our latest offers!
+38,1004,204,/product/204,click,10,2025-03-09 15:16:59,2025-03-23 15:16:59,0.81,,
+39,1004,202,/product/202,purchase,5,2025-02-28 15:16:59,2025-03-23 15:16:59,0.41,Email,Hey User 1004! We noticed you haven’t visited in a while. Check out our latest offers!
+40,1003,203,/product/202,view,3,2025-03-16 15:16:59,2025-03-23 15:16:59,0.27,SMS,Hey User 1003! We noticed you haven’t visited in a while. Check out our latest offers!
+41,1003,201,/product/205,view,5,2025-03-05 15:16:59,2025-03-23 15:16:59,0.41,Push,Hey User 1003! We noticed you haven’t visited in a while. Check out our latest offers!
+42,1002,202,/product/201,purchase,2,2025-03-12 15:16:59,2025-03-23 15:16:59,0.18,Email,Hey User 1002! We noticed you haven’t visited in a while. Check out our latest offers!
+43,1003,203,/product/203,purchase,7,2025-02-24 15:16:59,2025-03-23 15:16:59,0.57,,
+44,1001,204,/product/203,add_to_cart,7,2025-03-15 15:16:59,2025-03-23 15:16:59,0.58,,
+45,1002,202,/product/204,click,1,2025-03-05 15:16:59,2025-03-23 15:16:59,0.09,Push,Hey User 1002! We noticed you haven’t visited in a while. Check out our latest offers!
+46,1004,201,/product/203,click,1,2025-03-02 15:16:59,2025-03-23 15:16:59,0.09,Push,Hey User 1004! We noticed you haven’t visited in a while. Check out our latest offers!
+47,1002,205,/product/203,add_to_cart,8,2025-03-18 15:16:59,2025-03-23 15:16:59,0.67,,
+48,1001,204,/product/205,click,4,2025-03-12 15:16:59,2025-03-23 15:16:59,0.34,Email,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+49,1002,202,/product/204,view,4,2025-03-06 15:16:59,2025-03-23 15:16:59,0.33,Push,Hey User 1002! We noticed you haven’t visited in a while. Check out our latest offers!
+50,1004,205,/product/204,purchase,6,2025-03-16 15:16:59,2025-03-23 15:16:59,0.51,,
+51,1005,205,/product/202,purchase,7,2025-03-19 15:16:59,2025-03-23 15:16:59,0.6,,
+52,1001,202,/product/202,add_to_cart,1,2025-03-07 15:16:59,2025-03-23 15:16:59,0.09,Email,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+53,1003,204,/product/205,click,7,2025-03-13 15:16:59,2025-03-23 15:16:59,0.58,,
+54,1005,205,/product/201,add_to_cart,6,2025-03-18 15:16:59,2025-03-23 15:16:59,0.51,,
+55,1004,204,/product/204,add_to_cart,2,2025-02-24 15:16:59,2025-03-23 15:16:59,0.17,Push,Hey User 1004! We noticed you haven’t visited in a while. Check out our latest offers!
+56,1004,203,/product/203,add_to_cart,8,2025-03-04 15:16:59,2025-03-23 15:16:59,0.65,,
+57,1005,201,/product/204,add_to_cart,2,2025-03-03 15:16:59,2025-03-23 15:16:59,0.17,Email,Hey User 1005! We noticed you haven’t visited in a while. Check out our latest offers!
+58,1001,205,/product/203,view,6,2025-03-14 15:16:59,2025-03-23 15:16:59,0.5,,
+59,1003,204,/product/202,view,10,2025-03-17 15:16:59,2025-03-23 15:16:59,0.83,,
+60,1001,203,/product/202,add_to_cart,7,2025-03-04 15:16:59,2025-03-23 15:16:59,0.57,,
+61,1001,202,/product/205,click,7,2025-03-01 15:16:59,2025-03-23 15:16:59,0.57,,
+62,1002,202,/product/204,click,5,2025-03-03 15:16:59,2025-03-23 15:16:59,0.41,SMS,Hey User 1002! We noticed you haven’t visited in a while. Check out our latest offers!
+63,1002,204,/product/203,view,3,2025-03-04 15:16:59,2025-03-23 15:16:59,0.25,SMS,Hey User 1002! We noticed you haven’t visited in a while. Check out our latest offers!
+64,1004,205,/product/201,purchase,5,2025-03-10 15:16:59,2025-03-23 15:16:59,0.41,Push,Hey User 1004! We noticed you haven’t visited in a while. Check out our latest offers!
+65,1002,203,/product/203,purchase,7,2025-02-23 15:16:59,2025-03-23 15:16:59,0.57,,
+66,1001,202,/product/202,view,8,2025-02-23 15:16:59,2025-03-23 15:16:59,0.65,,
+67,1002,203,/product/205,purchase,2,2025-03-21 15:16:59,2025-03-23 15:16:59,0.23,,
+68,1004,205,/product/203,add_to_cart,5,2025-02-26 15:16:59,2025-03-23 15:16:59,0.41,Email,Hey User 1004! We noticed you haven’t visited in a while. Check out our latest offers!
+69,1002,203,/product/203,click,3,2025-03-14 15:16:59,2025-03-23 15:16:59,0.26,SMS,Hey User 1002! We noticed you haven’t visited in a while. Check out our latest offers!
+70,1004,201,/product/205,add_to_cart,10,2025-03-07 15:16:59,2025-03-23 15:16:59,0.81,,
+71,1001,202,/product/201,view,2,2025-03-05 15:16:59,2025-03-23 15:16:59,0.17,Push,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+72,1003,204,/product/202,add_to_cart,8,2025-03-11 15:16:59,2025-03-23 15:16:59,0.66,,
+73,1004,201,/product/205,purchase,6,2025-03-19 15:16:59,2025-03-23 15:16:59,0.52,,
+74,1004,205,/product/205,purchase,8,2025-02-21 15:16:59,2025-03-23 15:16:59,0.65,,
+75,1002,203,/product/201,view,1,2025-03-10 15:16:59,2025-03-23 15:16:59,0.09,Push,Hey User 1002! We noticed you haven’t visited in a while. Check out our latest offers!
+76,1004,201,/product/202,click,5,2025-03-20 15:16:59,2025-03-23 15:16:59,0.45,,
+77,1002,205,/product/205,click,10,2025-02-21 15:16:59,2025-03-23 15:16:59,0.81,,
+78,1001,203,/product/203,view,8,2025-03-02 15:16:59,2025-03-23 15:16:59,0.65,,
+79,1001,202,/product/202,click,7,2025-03-03 15:16:59,2025-03-23 15:16:59,0.57,,
+80,1004,203,/product/202,click,7,2025-03-05 15:16:59,2025-03-23 15:16:59,0.57,,
+81,1005,203,/product/203,add_to_cart,9,2025-03-03 15:16:59,2025-03-23 15:16:59,0.73,,
+82,1005,201,/product/205,view,10,2025-03-20 15:16:59,2025-03-23 15:16:59,0.85,,
+83,1001,204,/product/203,click,4,2025-02-26 15:16:59,2025-03-23 15:16:59,0.33,Email,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+84,1003,204,/product/204,purchase,10,2025-02-27 15:16:59,2025-03-23 15:16:59,0.81,,
+85,1003,203,/product/203,view,1,2025-02-28 15:16:59,2025-03-23 15:16:59,0.09,Email,Hey User 1003! We noticed you haven’t visited in a while. Check out our latest offers!
+86,1001,204,/product/203,click,1,2025-03-05 15:16:59,2025-03-23 15:16:59,0.09,SMS,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+87,1005,202,/product/202,purchase,6,2025-03-02 15:16:59,2025-03-23 15:16:59,0.49,Push,Hey User 1005! We noticed you haven’t visited in a while. Check out our latest offers!
+88,1002,204,/product/203,add_to_cart,9,2025-03-11 15:16:59,2025-03-23 15:16:59,0.74,,
+89,1005,205,/product/202,click,10,2025-02-28 15:16:59,2025-03-23 15:16:59,0.81,,
+90,1002,201,/product/201,view,2,2025-03-06 15:16:59,2025-03-23 15:16:59,0.17,Push,Hey User 1002! We noticed you haven’t visited in a while. Check out our latest offers!
+91,1003,201,/product/205,add_to_cart,10,2025-03-16 15:16:59,2025-03-23 15:16:59,0.83,,
+92,1005,205,/product/204,add_to_cart,10,2025-03-19 15:16:59,2025-03-23 15:16:59,0.84,,
+93,1004,202,/product/203,add_to_cart,8,2025-03-21 15:16:59,2025-03-23 15:16:59,0.71,,
+94,1005,205,/product/201,view,5,2025-02-26 15:16:59,2025-03-23 15:16:59,0.41,SMS,Hey User 1005! We noticed you haven’t visited in a while. Check out our latest offers!
+95,1004,202,/product/202,click,2,2025-03-19 15:16:59,2025-03-23 15:16:59,0.2,SMS,Hey User 1004! We noticed you haven’t visited in a while. Check out our latest offers!
+96,1003,204,/product/201,purchase,2,2025-03-18 15:16:59,2025-03-23 15:16:59,0.19,SMS,Hey User 1003! We noticed you haven’t visited in a while. Check out our latest offers!
+97,1002,205,/product/202,add_to_cart,9,2025-03-11 15:16:59,2025-03-23 15:16:59,0.74,,
+98,1003,203,/product/205,click,8,2025-03-15 15:16:59,2025-03-23 15:16:59,0.66,,
+99,1003,204,/product/203,purchase,9,2025-03-12 15:16:59,2025-03-23 15:16:59,0.74,,
+100,1004,205,/product/203,purchase,7,2025-03-12 15:16:59,2025-03-23 15:16:59,0.58,,
+101,1001,203,/product/204,click,4,2025-03-09 15:16:59,2025-03-23 15:16:59,0.33,Push,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+102,1004,204,/product/203,click,8,2025-03-12 15:16:59,2025-03-23 15:16:59,0.66,,
+103,1005,202,/product/202,click,10,2025-02-21 15:16:59,2025-03-23 15:16:59,0.81,,
+104,1003,203,/product/203,add_to_cart,3,2025-03-08 15:16:59,2025-03-23 15:16:59,0.25,SMS,Hey User 1003! We noticed you haven’t visited in a while. Check out our latest offers!
+105,1002,201,/product/205,add_to_cart,4,2025-02-26 15:16:59,2025-03-23 15:16:59,0.33,Email,Hey User 1002! We noticed you haven’t visited in a while. Check out our latest offers!
+106,1002,201,/product/205,add_to_cart,3,2025-03-14 15:16:59,2025-03-23 15:16:59,0.26,Push,Hey User 1002! We noticed you haven’t visited in a while. Check out our latest offers!
+107,1004,203,/product/201,purchase,8,2025-03-15 15:16:59,2025-03-23 15:16:59,0.66,,
+108,1001,205,/product/201,view,8,2025-03-03 15:16:59,2025-03-23 15:16:59,0.65,,
+109,1002,201,/product/204,view,2,2025-03-20 15:16:59,2025-03-23 15:16:59,0.21,,
+110,1002,204,/product/201,view,6,2025-03-15 15:16:59,2025-03-23 15:16:59,0.5,,
+111,1001,205,/product/204,purchase,10,2025-03-19 15:16:59,2025-03-23 15:16:59,0.84,,
+112,1003,204,/product/201,purchase,8,2025-02-28 15:16:59,2025-03-23 15:16:59,0.65,,
+113,1005,201,/product/204,purchase,5,2025-03-03 15:16:59,2025-03-23 15:16:59,0.41,SMS,Hey User 1005! We noticed you haven’t visited in a while. Check out our latest offers!
+114,1005,203,/product/204,click,2,2025-03-18 15:16:59,2025-03-23 15:16:59,0.19,SMS,Hey User 1005! We noticed you haven’t visited in a while. Check out our latest offers!
+115,1005,203,/product/204,view,9,2025-03-23 15:16:59,2025-03-23 15:16:59,0.92,,
+116,1005,204,/product/201,click,4,2025-03-04 15:16:59,2025-03-23 15:16:59,0.33,SMS,Hey User 1005! We noticed you haven’t visited in a while. Check out our latest offers!
+117,1005,203,/product/205,view,6,2025-03-21 15:16:59,2025-03-23 15:16:59,0.55,,
+118,1003,202,/product/203,view,7,2025-03-13 15:16:59,2025-03-23 15:16:59,0.58,,
+119,1003,203,/product/204,click,6,2025-03-14 15:16:59,2025-03-23 15:16:59,0.5,,
+120,1004,204,/product/203,view,7,2025-02-26 15:16:59,2025-03-23 15:16:59,0.57,,
+121,1003,203,/product/202,click,3,2025-03-19 15:16:59,2025-03-23 15:16:59,0.28,SMS,Hey User 1003! We noticed you haven’t visited in a while. Check out our latest offers!
+122,1004,201,/product/204,view,3,2025-03-09 15:16:59,2025-03-23 15:16:59,0.25,SMS,Hey User 1004! We noticed you haven’t visited in a while. Check out our latest offers!
+123,1001,205,/product/203,click,10,2025-02-22 15:16:59,2025-03-23 15:16:59,0.81,,
+124,1001,204,/product/201,purchase,3,2025-03-13 15:16:59,2025-03-23 15:16:59,0.26,Push,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+125,1005,201,/product/203,purchase,8,2025-03-16 15:16:59,2025-03-23 15:16:59,0.67,,
+126,1005,205,/product/201,purchase,1,2025-02-27 15:16:59,2025-03-23 15:16:59,0.09,Email,Hey User 1005! We noticed you haven’t visited in a while. Check out our latest offers!
+127,1003,204,/product/205,view,5,2025-03-22 15:16:59,2025-03-23 15:16:59,0.5,,
+128,1005,203,/product/202,click,2,2025-02-26 15:16:59,2025-03-23 15:16:59,0.17,SMS,Hey User 1005! We noticed you haven’t visited in a while. Check out our latest offers!
+129,1001,205,/product/203,purchase,10,2025-03-17 15:16:59,2025-03-23 15:16:59,0.83,,
+130,1005,203,/product/204,view,7,2025-03-12 15:16:59,2025-03-23 15:16:59,0.58,,
+131,1002,204,/product/204,click,3,2025-03-06 15:16:59,2025-03-23 15:16:59,0.25,Push,Hey User 1002! We noticed you haven’t visited in a while. Check out our latest offers!
+132,1003,201,/product/202,add_to_cart,2,2025-02-24 15:16:59,2025-03-23 15:16:59,0.17,Push,Hey User 1003! We noticed you haven’t visited in a while. Check out our latest offers!
+133,1005,203,/product/204,view,7,2025-03-15 15:16:59,2025-03-23 15:16:59,0.58,,
+134,1001,202,/product/201,purchase,10,2025-03-04 15:16:59,2025-03-23 15:16:59,0.81,,
+135,1001,204,/product/205,purchase,4,2025-02-24 15:16:59,2025-03-23 15:16:59,0.33,Email,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+136,1003,205,/product/203,add_to_cart,1,2025-02-23 15:16:59,2025-03-23 15:16:59,0.09,Email,Hey User 1003! We noticed you haven’t visited in a while. Check out our latest offers!
+137,1002,203,/product/204,click,6,2025-02-28 15:16:59,2025-03-23 15:16:59,0.49,Push,Hey User 1002! We noticed you haven’t visited in a while. Check out our latest offers!
+138,1003,203,/product/203,purchase,8,2025-03-21 15:16:59,2025-03-23 15:16:59,0.71,,
+139,1002,204,/product/202,purchase,8,2025-03-10 15:16:59,2025-03-23 15:16:59,0.65,,
+140,1003,204,/product/201,add_to_cart,3,2025-03-21 15:16:59,2025-03-23 15:16:59,0.31,,
+141,1003,204,/product/205,purchase,2,2025-03-07 15:16:59,2025-03-23 15:16:59,0.17,SMS,Hey User 1003! We noticed you haven’t visited in a while. Check out our latest offers!
+142,1003,203,/product/205,purchase,10,2025-02-24 15:16:59,2025-03-23 15:16:59,0.81,,
+143,1005,203,/product/203,add_to_cart,8,2025-02-27 15:16:59,2025-03-23 15:16:59,0.65,,
+144,1002,201,/product/203,purchase,8,2025-02-25 15:16:59,2025-03-23 15:16:59,0.65,,
+145,1005,205,/product/202,add_to_cart,8,2025-03-20 15:16:59,2025-03-23 15:16:59,0.69,,
+146,1003,204,/product/201,add_to_cart,8,2025-03-22 15:16:59,2025-03-23 15:16:59,0.74,,
+147,1001,201,/product/201,view,4,2025-03-10 15:16:59,2025-03-23 15:16:59,0.33,Email,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+148,1002,202,/product/202,view,6,2025-03-01 15:16:59,2025-03-23 15:16:59,0.49,Email,Hey User 1002! We noticed you haven’t visited in a while. Check out our latest offers!
+149,1002,202,/product/203,add_to_cart,3,2025-03-02 15:16:59,2025-03-23 15:16:59,0.25,Email,Hey User 1002! We noticed you haven’t visited in a while. Check out our latest offers!
+150,1001,205,/product/204,click,1,2025-02-25 15:16:59,2025-03-23 15:16:59,0.09,Push,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+151,1001,204,/product/201,view,2,2025-03-09 15:16:59,2025-03-23 15:16:59,0.17,SMS,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+152,1002,205,/product/204,purchase,7,2025-03-02 15:16:59,2025-03-23 15:16:59,0.57,,
+153,1004,201,/product/203,view,1,2025-03-23 15:16:59,2025-03-23 15:16:59,0.28,,
+154,1003,202,/product/204,purchase,6,2025-03-22 15:16:59,2025-03-23 15:16:59,0.58,,
+155,1003,205,/product/202,view,3,2025-03-01 15:16:59,2025-03-23 15:16:59,0.25,Email,Hey User 1003! We noticed you haven’t visited in a while. Check out our latest offers!
+156,1001,205,/product/201,click,3,2025-02-23 15:16:59,2025-03-23 15:16:59,0.25,Email,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+157,1003,205,/product/204,add_to_cart,10,2025-03-22 15:16:59,2025-03-23 15:16:59,0.9,,
+158,1003,202,/product/202,click,9,2025-03-02 15:16:59,2025-03-23 15:16:59,0.73,,
+159,1005,202,/product/205,click,1,2025-03-08 15:16:59,2025-03-23 15:16:59,0.09,Email,Hey User 1005! We noticed you haven’t visited in a while. Check out our latest offers!
+160,1004,204,/product/203,purchase,5,2025-03-01 15:16:59,2025-03-23 15:16:59,0.41,SMS,Hey User 1004! We noticed you haven’t visited in a while. Check out our latest offers!
+161,1003,202,/product/201,purchase,2,2025-03-07 15:16:59,2025-03-23 15:16:59,0.17,SMS,Hey User 1003! We noticed you haven’t visited in a while. Check out our latest offers!
+162,1004,203,/product/204,view,2,2025-03-22 15:16:59,2025-03-23 15:16:59,0.26,,
+163,1003,205,/product/204,add_to_cart,2,2025-02-28 15:16:59,2025-03-23 15:16:59,0.17,SMS,Hey User 1003! We noticed you haven’t visited in a while. Check out our latest offers!
+164,1002,202,/product/205,purchase,7,2025-03-23 15:16:59,2025-03-23 15:16:59,0.76,,
+165,1003,204,/product/203,purchase,5,2025-03-15 15:16:59,2025-03-23 15:16:59,0.42,Email,Hey User 1003! We noticed you haven’t visited in a while. Check out our latest offers!
+166,1004,201,/product/202,add_to_cart,2,2025-03-08 15:16:59,2025-03-23 15:16:59,0.17,SMS,Hey User 1004! We noticed you haven’t visited in a while. Check out our latest offers!
+167,1003,203,/product/203,click,6,2025-03-05 15:16:59,2025-03-23 15:16:59,0.49,Push,Hey User 1003! We noticed you haven’t visited in a while. Check out our latest offers!
+168,1005,202,/product/204,view,6,2025-02-28 15:16:59,2025-03-23 15:16:59,0.49,Email,Hey User 1005! We noticed you haven’t visited in a while. Check out our latest offers!
+169,1003,201,/product/202,purchase,1,2025-03-16 15:16:59,2025-03-23 15:16:59,0.11,Push,Hey User 1003! We noticed you haven’t visited in a while. Check out our latest offers!
+170,1001,202,/product/201,click,2,2025-03-22 15:16:59,2025-03-23 15:16:59,0.26,,
+171,1005,203,/product/202,view,9,2025-03-12 15:16:59,2025-03-23 15:16:59,0.74,,
+172,1004,203,/product/202,add_to_cart,9,2025-03-21 15:16:59,2025-03-23 15:16:59,0.79,,
+173,1001,202,/product/204,click,5,2025-03-05 15:16:59,2025-03-23 15:16:59,0.41,Push,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+174,1002,205,/product/202,click,9,2025-03-05 15:16:59,2025-03-23 15:16:59,0.73,,
+175,1004,205,/product/201,click,3,2025-02-27 15:16:59,2025-03-23 15:16:59,0.25,SMS,Hey User 1004! We noticed you haven’t visited in a while. Check out our latest offers!
+176,1001,204,/product/201,view,8,2025-03-02 15:16:59,2025-03-23 15:16:59,0.65,,
+177,1001,204,/product/204,view,5,2025-03-04 15:16:59,2025-03-23 15:16:59,0.41,SMS,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+178,1005,204,/product/204,click,8,2025-03-01 15:16:59,2025-03-23 15:16:59,0.65,,
+179,1003,201,/product/201,view,9,2025-03-15 15:16:59,2025-03-23 15:16:59,0.74,,
+180,1003,202,/product/203,purchase,7,2025-03-22 15:16:59,2025-03-23 15:16:59,0.66,,
+181,1005,202,/product/204,purchase,10,2025-03-17 15:16:59,2025-03-23 15:16:59,0.83,,
+182,1003,204,/product/204,add_to_cart,10,2025-03-22 15:16:59,2025-03-23 15:16:59,0.9,,
+183,1003,205,/product/203,add_to_cart,7,2025-02-24 15:16:59,2025-03-23 15:16:59,0.57,,
+184,1005,205,/product/203,purchase,5,2025-03-13 15:16:59,2025-03-23 15:16:59,0.42,SMS,Hey User 1005! We noticed you haven’t visited in a while. Check out our latest offers!
+185,1002,202,/product/203,purchase,8,2025-03-08 15:16:59,2025-03-23 15:16:59,0.65,,
+186,1005,201,/product/201,add_to_cart,8,2025-03-02 15:16:59,2025-03-23 15:16:59,0.65,,
+187,1001,203,/product/204,view,5,2025-03-01 15:16:59,2025-03-23 15:16:59,0.41,Push,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+188,1004,202,/product/205,add_to_cart,2,2025-03-20 15:16:59,2025-03-23 15:16:59,0.21,,
+189,1001,204,/product/202,view,2,2025-02-22 15:16:59,2025-03-23 15:16:59,0.17,Email,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+190,1001,202,/product/203,add_to_cart,7,2025-02-25 15:16:59,2025-03-23 15:16:59,0.57,,
+191,1001,203,/product/204,purchase,7,2025-02-23 15:16:59,2025-03-23 15:16:59,0.57,,
+192,1001,205,/product/203,view,10,2025-03-20 15:16:59,2025-03-23 15:16:59,0.85,,
+193,1002,205,/product/205,click,5,2025-03-13 15:16:59,2025-03-23 15:16:59,0.42,Email,Hey User 1002! We noticed you haven’t visited in a while. Check out our latest offers!
+194,1002,201,/product/201,click,9,2025-03-22 15:16:59,2025-03-23 15:16:59,0.82,,
+195,1001,204,/product/201,purchase,6,2025-03-02 15:16:59,2025-03-23 15:16:59,0.49,SMS,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+196,1002,205,/product/205,purchase,6,2025-03-02 15:16:59,2025-03-23 15:16:59,0.49,Email,Hey User 1002! We noticed you haven’t visited in a while. Check out our latest offers!
+197,1005,203,/product/202,view,2,2025-03-23 15:16:59,2025-03-23 15:16:59,0.36,,
+198,1002,204,/product/201,view,9,2025-03-23 15:16:59,2025-03-23 15:16:59,0.92,,
+199,1001,204,/product/205,view,5,2025-03-12 15:16:59,2025-03-23 15:16:59,0.42,Email,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+200,1005,204,/product/204,view,2,2025-02-27 15:16:59,2025-03-23 15:16:59,0.17,Push,Hey User 1005! We noticed you haven’t visited in a while. Check out our latest offers!
+201,1001,203,/product/205,add_to_cart,10,2025-02-23 15:16:59,2025-03-23 15:16:59,0.81,,
+202,1005,202,/product/205,view,3,2025-02-24 15:16:59,2025-03-23 15:16:59,0.25,SMS,Hey User 1005! We noticed you haven’t visited in a while. Check out our latest offers!
+203,1002,204,/product/202,purchase,5,2025-03-08 15:16:59,2025-03-23 15:16:59,0.41,Push,Hey User 1002! We noticed you haven’t visited in a while. Check out our latest offers!
+204,1002,204,/product/201,add_to_cart,2,2025-03-05 15:16:59,2025-03-23 15:16:59,0.17,SMS,Hey User 1002! We noticed you haven’t visited in a while. Check out our latest offers!
+205,1002,201,/product/204,purchase,10,2025-03-07 15:16:59,2025-03-23 15:16:59,0.81,,
+206,1001,202,/product/201,click,5,2025-02-26 15:16:59,2025-03-23 15:16:59,0.41,SMS,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+207,1003,203,/product/202,purchase,7,2025-03-03 15:16:59,2025-03-23 15:16:59,0.57,,
+208,1002,203,/product/204,add_to_cart,5,2025-03-19 15:16:59,2025-03-23 15:16:59,0.44,Email,Hey User 1002! We noticed you haven’t visited in a while. Check out our latest offers!
+209,1005,202,/product/202,add_to_cart,5,2025-03-22 15:16:59,2025-03-23 15:16:59,0.5,,
+210,1003,202,/product/205,purchase,2,2025-02-22 15:16:59,2025-03-23 15:16:59,0.17,Email,Hey User 1003! We noticed you haven’t visited in a while. Check out our latest offers!
+211,1005,203,/product/205,add_to_cart,10,2025-03-21 15:16:59,2025-03-23 15:16:59,0.87,,
+212,1004,204,/product/202,view,3,2025-03-18 15:16:59,2025-03-23 15:16:59,0.27,Email,Hey User 1004! We noticed you haven’t visited in a while. Check out our latest offers!
+213,1005,203,/product/201,view,7,2025-03-23 15:16:59,2025-03-23 15:16:59,0.76,,
+214,1004,201,/product/202,purchase,1,2025-03-03 15:16:59,2025-03-23 15:16:59,0.09,Email,Hey User 1004! We noticed you haven’t visited in a while. Check out our latest offers!
+215,1005,203,/product/205,add_to_cart,7,2025-02-26 15:16:59,2025-03-23 15:16:59,0.57,,
+216,1001,204,/product/203,click,8,2025-03-01 15:16:59,2025-03-23 15:16:59,0.65,,
+217,1003,204,/product/202,view,6,2025-03-14 15:16:59,2025-03-23 15:16:59,0.5,,
+218,1005,203,/product/205,purchase,3,2025-03-11 15:16:59,2025-03-23 15:16:59,0.26,SMS,Hey User 1005! We noticed you haven’t visited in a while. Check out our latest offers!
+219,1005,203,/product/203,click,7,2025-03-03 15:16:59,2025-03-23 15:16:59,0.57,,
+220,1003,201,/product/201,purchase,7,2025-03-13 15:16:59,2025-03-23 15:16:59,0.58,,
+221,1005,205,/product/202,purchase,10,2025-03-22 15:16:59,2025-03-23 15:16:59,0.9,,
+222,1003,203,/product/204,purchase,9,2025-03-09 15:16:59,2025-03-23 15:16:59,0.73,,
+223,1001,204,/product/205,view,6,2025-03-19 15:16:59,2025-03-23 15:16:59,0.52,,
+224,1001,203,/product/204,purchase,9,2025-02-28 15:16:59,2025-03-23 15:16:59,0.73,,
+225,1002,203,/product/201,purchase,6,2025-03-16 15:16:59,2025-03-23 15:16:59,0.51,,
+226,1004,204,/product/201,click,7,2025-03-20 15:16:59,2025-03-23 15:16:59,0.61,,
+227,1001,205,/product/203,view,3,2025-02-22 15:16:59,2025-03-23 15:16:59,0.25,Email,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+228,1005,203,/product/202,view,3,2025-02-21 15:16:59,2025-03-23 15:16:59,0.25,Push,Hey User 1005! We noticed you haven’t visited in a while. Check out our latest offers!
+229,1001,201,/product/203,view,3,2025-03-17 15:16:59,2025-03-23 15:16:59,0.27,Push,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+230,1005,201,/product/204,click,9,2025-03-17 15:16:59,2025-03-23 15:16:59,0.75,,
+231,1001,202,/product/202,add_to_cart,2,2025-03-03 15:16:59,2025-03-23 15:16:59,0.17,Email,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+232,1003,204,/product/205,purchase,4,2025-02-26 15:16:59,2025-03-23 15:16:59,0.33,Push,Hey User 1003! We noticed you haven’t visited in a while. Check out our latest offers!
+233,1004,202,/product/205,add_to_cart,9,2025-03-06 15:16:59,2025-03-23 15:16:59,0.73,,
+234,1003,204,/product/204,view,1,2025-03-11 15:16:59,2025-03-23 15:16:59,0.1,Push,Hey User 1003! We noticed you haven’t visited in a while. Check out our latest offers!
+235,1001,204,/product/201,view,5,2025-02-27 15:16:59,2025-03-23 15:16:59,0.41,Push,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+236,1002,204,/product/204,add_to_cart,5,2025-03-16 15:16:59,2025-03-23 15:16:59,0.43,SMS,Hey User 1002! We noticed you haven’t visited in a while. Check out our latest offers!
+237,1004,203,/product/202,purchase,4,2025-03-12 15:16:59,2025-03-23 15:16:59,0.34,Push,Hey User 1004! We noticed you haven’t visited in a while. Check out our latest offers!
+238,1002,203,/product/205,add_to_cart,8,2025-03-05 15:16:59,2025-03-23 15:16:59,0.65,,
+239,1002,204,/product/202,view,3,2025-03-14 15:16:59,2025-03-23 15:16:59,0.26,SMS,Hey User 1002! We noticed you haven’t visited in a while. Check out our latest offers!
+240,1004,203,/product/204,add_to_cart,1,2025-03-09 15:16:59,2025-03-23 15:16:59,0.09,SMS,Hey User 1004! We noticed you haven’t visited in a while. Check out our latest offers!
+241,1005,202,/product/202,purchase,8,2025-03-23 15:16:59,2025-03-23 15:16:59,0.84,,
+242,1004,203,/product/204,add_to_cart,3,2025-02-28 15:16:59,2025-03-23 15:16:59,0.25,SMS,Hey User 1004! We noticed you haven’t visited in a while. Check out our latest offers!
+243,1003,202,/product/205,purchase,5,2025-03-12 15:16:59,2025-03-23 15:16:59,0.42,SMS,Hey User 1003! We noticed you haven’t visited in a while. Check out our latest offers!
+244,1003,203,/product/203,purchase,5,2025-02-22 15:16:59,2025-03-23 15:16:59,0.41,SMS,Hey User 1003! We noticed you haven’t visited in a while. Check out our latest offers!
+245,1004,204,/product/205,view,5,2025-03-19 15:16:59,2025-03-23 15:16:59,0.44,Email,Hey User 1004! We noticed you haven’t visited in a while. Check out our latest offers!
+246,1004,202,/product/202,view,9,2025-03-08 15:16:59,2025-03-23 15:16:59,0.73,,
+247,1003,201,/product/202,view,4,2025-03-14 15:16:59,2025-03-23 15:16:59,0.34,Push,Hey User 1003! We noticed you haven’t visited in a while. Check out our latest offers!
+248,1003,205,/product/201,add_to_cart,5,2025-03-05 15:16:59,2025-03-23 15:16:59,0.41,Push,Hey User 1003! We noticed you haven’t visited in a while. Check out our latest offers!
+249,1002,204,/product/205,click,7,2025-03-11 15:16:59,2025-03-23 15:16:59,0.58,,
+250,1004,204,/product/203,purchase,2,2025-03-08 15:16:59,2025-03-23 15:16:59,0.17,Email,Hey User 1004! We noticed you haven’t visited in a while. Check out our latest offers!
+251,1001,203,/product/203,add_to_cart,7,2025-03-21 15:16:59,2025-03-23 15:16:59,0.63,,
+252,1005,203,/product/204,click,4,2025-03-12 15:16:59,2025-03-23 15:16:59,0.34,SMS,Hey User 1005! We noticed you haven’t visited in a while. Check out our latest offers!
+253,1003,204,/product/201,view,7,2025-03-03 15:16:59,2025-03-23 15:16:59,0.57,,
+254,1001,204,/product/201,add_to_cart,6,2025-03-21 15:16:59,2025-03-23 15:16:59,0.55,,
+255,1002,204,/product/202,purchase,2,2025-03-17 15:16:59,2025-03-23 15:16:59,0.19,Push,Hey User 1002! We noticed you haven’t visited in a while. Check out our latest offers!
+256,1001,201,/product/203,add_to_cart,6,2025-02-25 15:16:59,2025-03-23 15:16:59,0.49,Push,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+257,1003,201,/product/201,add_to_cart,7,2025-03-12 15:16:59,2025-03-23 15:16:59,0.58,,
+258,1003,203,/product/205,view,1,2025-03-07 15:16:59,2025-03-23 15:16:59,0.09,SMS,Hey User 1003! We noticed you haven’t visited in a while. Check out our latest offers!
+259,1002,202,/product/205,add_to_cart,3,2025-03-20 15:16:59,2025-03-23 15:16:59,0.29,,
+260,1003,202,/product/203,view,6,2025-03-12 15:16:59,2025-03-23 15:16:59,0.5,,
+261,1001,204,/product/204,click,5,2025-03-08 15:16:59,2025-03-23 15:16:59,0.41,Email,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+262,1003,201,/product/202,view,7,2025-03-19 15:16:59,2025-03-23 15:16:59,0.6,,
+263,1001,203,/product/204,click,1,2025-02-27 15:16:59,2025-03-23 15:16:59,0.09,Email,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+264,1004,201,/product/202,click,10,2025-03-23 15:16:59,2025-03-23 15:16:59,1.0,,
+265,1003,205,/product/202,add_to_cart,4,2025-03-16 15:16:59,2025-03-23 15:16:59,0.35,Email,Hey User 1003! We noticed you haven’t visited in a while. Check out our latest offers!
+266,1001,205,/product/202,purchase,9,2025-03-12 15:16:59,2025-03-23 15:16:59,0.74,,
+267,1005,202,/product/202,view,6,2025-02-28 15:16:59,2025-03-23 15:16:59,0.49,SMS,Hey User 1005! We noticed you haven’t visited in a while. Check out our latest offers!
+268,1002,205,/product/201,add_to_cart,2,2025-02-21 15:16:59,2025-03-23 15:16:59,0.17,SMS,Hey User 1002! We noticed you haven’t visited in a while. Check out our latest offers!
+269,1003,204,/product/201,view,3,2025-03-17 15:16:59,2025-03-23 15:16:59,0.27,Push,Hey User 1003! We noticed you haven’t visited in a while. Check out our latest offers!
+270,1004,202,/product/202,add_to_cart,8,2025-03-13 15:16:59,2025-03-23 15:16:59,0.66,,
+271,1004,203,/product/205,click,9,2025-03-08 15:16:59,2025-03-23 15:16:59,0.73,,
+272,1001,202,/product/202,add_to_cart,7,2025-03-23 15:16:59,2025-03-23 15:16:59,0.76,,
+273,1001,202,/product/202,click,3,2025-03-20 15:16:59,2025-03-23 15:16:59,0.29,,
+274,1003,202,/product/204,purchase,5,2025-03-11 15:16:59,2025-03-23 15:16:59,0.42,Email,Hey User 1003! We noticed you haven’t visited in a while. Check out our latest offers!
+275,1004,201,/product/201,add_to_cart,2,2025-02-23 15:16:59,2025-03-23 15:16:59,0.17,Email,Hey User 1004! We noticed you haven’t visited in a while. Check out our latest offers!
+276,1003,202,/product/205,purchase,7,2025-03-18 15:16:59,2025-03-23 15:16:59,0.59,,
+277,1004,205,/product/201,view,2,2025-03-10 15:16:59,2025-03-23 15:16:59,0.17,SMS,Hey User 1004! We noticed you haven’t visited in a while. Check out our latest offers!
+278,1001,202,/product/201,click,2,2025-03-16 15:16:59,2025-03-23 15:16:59,0.19,SMS,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+279,1004,201,/product/201,click,9,2025-03-13 15:16:59,2025-03-23 15:16:59,0.74,,
+280,1001,201,/product/204,purchase,3,2025-02-28 15:16:59,2025-03-23 15:16:59,0.25,SMS,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+281,1004,204,/product/205,add_to_cart,4,2025-03-14 15:16:59,2025-03-23 15:16:59,0.34,Email,Hey User 1004! We noticed you haven’t visited in a while. Check out our latest offers!
+282,1004,205,/product/201,click,4,2025-03-06 15:16:59,2025-03-23 15:16:59,0.33,Email,Hey User 1004! We noticed you haven’t visited in a while. Check out our latest offers!
+283,1003,205,/product/201,view,9,2025-03-21 15:16:59,2025-03-23 15:16:59,0.79,,
+284,1003,203,/product/202,purchase,2,2025-02-28 15:16:59,2025-03-23 15:16:59,0.17,Push,Hey User 1003! We noticed you haven’t visited in a while. Check out our latest offers!
+285,1005,201,/product/203,view,7,2025-03-02 15:16:59,2025-03-23 15:16:59,0.57,,
+286,1005,203,/product/202,click,4,2025-02-28 15:16:59,2025-03-23 15:16:59,0.33,Push,Hey User 1005! We noticed you haven’t visited in a while. Check out our latest offers!
+287,1004,201,/product/205,click,4,2025-02-21 15:16:59,2025-03-23 15:16:59,0.33,Push,Hey User 1004! We noticed you haven’t visited in a while. Check out our latest offers!
+288,1004,205,/product/204,click,4,2025-03-06 15:16:59,2025-03-23 15:16:59,0.33,Email,Hey User 1004! We noticed you haven’t visited in a while. Check out our latest offers!
+289,1002,204,/product/205,view,2,2025-03-14 15:16:59,2025-03-23 15:16:59,0.18,Push,Hey User 1002! We noticed you haven’t visited in a while. Check out our latest offers!
+290,1005,204,/product/203,purchase,4,2025-03-06 15:16:59,2025-03-23 15:16:59,0.33,Email,Hey User 1005! We noticed you haven’t visited in a while. Check out our latest offers!
+291,1003,201,/product/204,purchase,6,2025-03-08 15:16:59,2025-03-23 15:16:59,0.49,Email,Hey User 1003! We noticed you haven’t visited in a while. Check out our latest offers!
+292,1001,202,/product/205,view,3,2025-03-11 15:16:59,2025-03-23 15:16:59,0.26,Email,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+293,1002,203,/product/205,purchase,10,2025-03-15 15:16:59,2025-03-23 15:16:59,0.82,,
+294,1004,203,/product/205,view,5,2025-03-18 15:16:59,2025-03-23 15:16:59,0.43,SMS,Hey User 1004! We noticed you haven’t visited in a while. Check out our latest offers!
+295,1005,202,/product/203,click,8,2025-02-26 15:16:59,2025-03-23 15:16:59,0.65,,
+296,1003,201,/product/202,purchase,8,2025-02-21 15:16:59,2025-03-23 15:16:59,0.65,,
+297,1001,204,/product/203,add_to_cart,1,2025-03-04 15:16:59,2025-03-23 15:16:59,0.09,Email,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+298,1002,203,/product/202,view,9,2025-03-23 15:16:59,2025-03-23 15:16:59,0.92,,
+299,1001,205,/product/204,add_to_cart,9,2025-03-20 15:16:59,2025-03-23 15:16:59,0.77,,
+300,1001,203,/product/203,view,3,2025-03-16 15:16:59,2025-03-23 15:16:59,0.27,SMS,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+301,1002,202,/product/204,click,4,2025-03-01 15:16:59,2025-03-23 15:16:59,0.33,Push,Hey User 1002! We noticed you haven’t visited in a while. Check out our latest offers!
+302,1003,205,/product/201,purchase,7,2025-03-13 15:16:59,2025-03-23 15:16:59,0.58,,
+303,1003,201,/product/204,add_to_cart,10,2025-03-13 15:16:59,2025-03-23 15:16:59,0.82,,
+304,1001,202,/product/203,add_to_cart,2,2025-03-08 15:16:59,2025-03-23 15:16:59,0.17,Email,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+305,1004,203,/product/203,view,4,2025-03-21 15:16:59,2025-03-23 15:16:59,0.39,,
+306,1003,203,/product/203,add_to_cart,1,2025-03-20 15:16:59,2025-03-23 15:16:59,0.13,,
+307,1003,204,/product/201,view,8,2025-02-23 15:16:59,2025-03-23 15:16:59,0.65,,
+308,1001,205,/product/203,click,7,2025-02-21 15:16:59,2025-03-23 15:16:59,0.57,,
+309,1005,205,/product/201,add_to_cart,10,2025-03-05 15:16:59,2025-03-23 15:16:59,0.81,,
+310,1004,203,/product/201,view,7,2025-02-21 15:16:59,2025-03-23 15:16:59,0.57,,
+311,1002,202,/product/203,add_to_cart,3,2025-03-04 15:16:59,2025-03-23 15:16:59,0.25,SMS,Hey User 1002! We noticed you haven’t visited in a while. Check out our latest offers!
+312,1005,203,/product/202,view,1,2025-03-20 15:16:59,2025-03-23 15:16:59,0.13,,
+313,1003,205,/product/205,view,3,2025-03-09 15:16:59,2025-03-23 15:16:59,0.25,Email,Hey User 1003! We noticed you haven’t visited in a while. Check out our latest offers!
+314,1003,201,/product/205,add_to_cart,2,2025-03-19 15:16:59,2025-03-23 15:16:59,0.2,Push,Hey User 1003! We noticed you haven’t visited in a while. Check out our latest offers!
+315,1004,204,/product/202,view,8,2025-03-06 15:16:59,2025-03-23 15:16:59,0.65,,
+316,1002,204,/product/205,purchase,1,2025-03-09 15:16:59,2025-03-23 15:16:59,0.09,Email,Hey User 1002! We noticed you haven’t visited in a while. Check out our latest offers!
+317,1004,205,/product/204,view,6,2025-03-19 15:16:59,2025-03-23 15:16:59,0.52,,
+318,1002,203,/product/201,view,9,2025-03-22 15:16:59,2025-03-23 15:16:59,0.82,,
+319,1002,204,/product/202,purchase,2,2025-03-20 15:16:59,2025-03-23 15:16:59,0.21,,
+320,1002,201,/product/202,add_to_cart,3,2025-03-12 15:16:59,2025-03-23 15:16:59,0.26,SMS,Hey User 1002! We noticed you haven’t visited in a while. Check out our latest offers!
+321,1005,203,/product/205,click,2,2025-03-02 15:16:59,2025-03-23 15:16:59,0.17,Push,Hey User 1005! We noticed you haven’t visited in a while. Check out our latest offers!
+322,1005,201,/product/201,view,2,2025-03-15 15:16:59,2025-03-23 15:16:59,0.18,SMS,Hey User 1005! We noticed you haven’t visited in a while. Check out our latest offers!
+323,1005,202,/product/203,purchase,2,2025-03-12 15:16:59,2025-03-23 15:16:59,0.18,SMS,Hey User 1005! We noticed you haven’t visited in a while. Check out our latest offers!
+324,1001,202,/product/204,purchase,1,2025-03-05 15:16:59,2025-03-23 15:16:59,0.09,SMS,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+325,1001,201,/product/203,click,3,2025-03-18 15:16:59,2025-03-23 15:16:59,0.27,SMS,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+326,1003,202,/product/205,click,3,2025-03-16 15:16:59,2025-03-23 15:16:59,0.27,Email,Hey User 1003! We noticed you haven’t visited in a while. Check out our latest offers!
+327,1003,201,/product/202,view,5,2025-03-16 15:16:59,2025-03-23 15:16:59,0.43,Email,Hey User 1003! We noticed you haven’t visited in a while. Check out our latest offers!
+328,1005,201,/product/204,view,1,2025-03-07 15:16:59,2025-03-23 15:16:59,0.09,Push,Hey User 1005! We noticed you haven’t visited in a while. Check out our latest offers!
+329,1001,205,/product/205,purchase,7,2025-03-05 15:16:59,2025-03-23 15:16:59,0.57,,
+330,1002,205,/product/201,purchase,6,2025-02-21 15:16:59,2025-03-23 15:16:59,0.49,Email,Hey User 1002! We noticed you haven’t visited in a while. Check out our latest offers!
+331,1002,203,/product/205,add_to_cart,1,2025-02-26 15:16:59,2025-03-23 15:16:59,0.09,Push,Hey User 1002! We noticed you haven’t visited in a while. Check out our latest offers!
+332,1001,201,/product/204,view,9,2025-03-15 15:16:59,2025-03-23 15:16:59,0.74,,
+333,1002,201,/product/203,view,2,2025-03-01 15:16:59,2025-03-23 15:16:59,0.17,Push,Hey User 1002! We noticed you haven’t visited in a while. Check out our latest offers!
+334,1002,202,/product/205,click,2,2025-02-22 15:16:59,2025-03-23 15:16:59,0.17,SMS,Hey User 1002! We noticed you haven’t visited in a while. Check out our latest offers!
+335,1004,204,/product/202,view,5,2025-03-09 15:16:59,2025-03-23 15:16:59,0.41,Push,Hey User 1004! We noticed you haven’t visited in a while. Check out our latest offers!
+336,1005,205,/product/202,purchase,2,2025-03-06 15:16:59,2025-03-23 15:16:59,0.17,Email,Hey User 1005! We noticed you haven’t visited in a while. Check out our latest offers!
+337,1002,201,/product/204,view,10,2025-03-21 15:16:59,2025-03-23 15:16:59,0.87,,
+338,1005,205,/product/202,view,10,2025-02-24 15:16:59,2025-03-23 15:16:59,0.81,,
+339,1004,204,/product/202,click,8,2025-03-19 15:16:59,2025-03-23 15:16:59,0.68,,
+340,1003,204,/product/202,add_to_cart,2,2025-02-24 15:16:59,2025-03-23 15:16:59,0.17,Push,Hey User 1003! We noticed you haven’t visited in a while. Check out our latest offers!
+341,1004,205,/product/205,add_to_cart,5,2025-03-04 15:16:59,2025-03-23 15:16:59,0.41,Push,Hey User 1004! We noticed you haven’t visited in a while. Check out our latest offers!
+342,1005,201,/product/205,view,8,2025-03-06 15:16:59,2025-03-23 15:16:59,0.65,,
+343,1005,205,/product/201,add_to_cart,2,2025-03-06 15:16:59,2025-03-23 15:16:59,0.17,SMS,Hey User 1005! We noticed you haven’t visited in a while. Check out our latest offers!
+344,1001,202,/product/201,view,1,2025-03-14 15:16:59,2025-03-23 15:16:59,0.1,Push,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+345,1003,203,/product/201,view,8,2025-02-26 15:16:59,2025-03-23 15:16:59,0.65,,
+346,1003,202,/product/202,click,7,2025-03-23 15:16:59,2025-03-23 15:16:59,0.76,,
+347,1002,201,/product/202,view,3,2025-03-06 15:16:59,2025-03-23 15:16:59,0.25,Push,Hey User 1002! We noticed you haven’t visited in a while. Check out our latest offers!
+348,1005,204,/product/201,click,1,2025-03-21 15:16:59,2025-03-23 15:16:59,0.15,,
+349,1003,203,/product/205,add_to_cart,9,2025-03-06 15:16:59,2025-03-23 15:16:59,0.73,,
+350,1004,205,/product/203,click,3,2025-03-15 15:16:59,2025-03-23 15:16:59,0.26,Push,Hey User 1004! We noticed you haven’t visited in a while. Check out our latest offers!
+351,1001,202,/product/205,view,2,2025-03-08 15:16:59,2025-03-23 15:16:59,0.17,Push,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+352,1002,203,/product/203,purchase,3,2025-03-14 15:16:59,2025-03-23 15:16:59,0.26,Push,Hey User 1002! We noticed you haven’t visited in a while. Check out our latest offers!
+353,1003,205,/product/201,add_to_cart,2,2025-03-05 15:16:59,2025-03-23 15:16:59,0.17,Push,Hey User 1003! We noticed you haven’t visited in a while. Check out our latest offers!
+354,1003,204,/product/203,purchase,2,2025-03-17 15:16:59,2025-03-23 15:16:59,0.19,SMS,Hey User 1003! We noticed you haven’t visited in a while. Check out our latest offers!
+355,1002,203,/product/203,click,10,2025-02-22 15:16:59,2025-03-23 15:16:59,0.81,,
+356,1002,201,/product/201,click,1,2025-03-19 15:16:59,2025-03-23 15:16:59,0.12,Push,Hey User 1002! We noticed you haven’t visited in a while. Check out our latest offers!
+357,1004,203,/product/203,add_to_cart,10,2025-03-07 15:16:59,2025-03-23 15:16:59,0.81,,
+358,1002,204,/product/204,click,3,2025-03-02 15:16:59,2025-03-23 15:16:59,0.25,Email,Hey User 1002! We noticed you haven’t visited in a while. Check out our latest offers!
+359,1001,204,/product/202,click,9,2025-02-27 15:16:59,2025-03-23 15:16:59,0.73,,
+360,1004,205,/product/201,add_to_cart,7,2025-02-27 15:16:59,2025-03-23 15:16:59,0.57,,
+361,1004,202,/product/202,view,4,2025-02-24 15:16:59,2025-03-23 15:16:59,0.33,SMS,Hey User 1004! We noticed you haven’t visited in a while. Check out our latest offers!
+362,1002,203,/product/201,add_to_cart,2,2025-02-24 15:16:59,2025-03-23 15:16:59,0.17,Push,Hey User 1002! We noticed you haven’t visited in a while. Check out our latest offers!
+363,1004,202,/product/202,add_to_cart,8,2025-03-15 15:16:59,2025-03-23 15:16:59,0.66,,
+364,1005,201,/product/201,purchase,9,2025-02-25 15:16:59,2025-03-23 15:16:59,0.73,,
+365,1004,205,/product/204,add_to_cart,6,2025-03-09 15:16:59,2025-03-23 15:16:59,0.49,SMS,Hey User 1004! We noticed you haven’t visited in a while. Check out our latest offers!
+366,1004,204,/product/203,click,1,2025-03-06 15:16:59,2025-03-23 15:16:59,0.09,SMS,Hey User 1004! We noticed you haven’t visited in a while. Check out our latest offers!
+367,1004,202,/product/202,purchase,1,2025-03-10 15:16:59,2025-03-23 15:16:59,0.09,Email,Hey User 1004! We noticed you haven’t visited in a while. Check out our latest offers!
+368,1004,205,/product/205,click,2,2025-03-21 15:16:59,2025-03-23 15:16:59,0.23,,
+369,1004,205,/product/202,purchase,7,2025-03-17 15:16:59,2025-03-23 15:16:59,0.59,,
+370,1003,202,/product/204,purchase,7,2025-02-26 15:16:59,2025-03-23 15:16:59,0.57,,
+371,1004,203,/product/201,view,5,2025-03-02 15:16:59,2025-03-23 15:16:59,0.41,Push,Hey User 1004! We noticed you haven’t visited in a while. Check out our latest offers!
+372,1001,201,/product/205,add_to_cart,10,2025-03-07 15:16:59,2025-03-23 15:16:59,0.81,,
+373,1004,204,/product/203,view,2,2025-02-28 15:16:59,2025-03-23 15:16:59,0.17,Email,Hey User 1004! We noticed you haven’t visited in a while. Check out our latest offers!
+374,1004,201,/product/205,add_to_cart,5,2025-03-08 15:16:59,2025-03-23 15:16:59,0.41,SMS,Hey User 1004! We noticed you haven’t visited in a while. Check out our latest offers!
+375,1003,204,/product/204,view,1,2025-03-09 15:16:59,2025-03-23 15:16:59,0.09,Email,Hey User 1003! We noticed you haven’t visited in a while. Check out our latest offers!
+376,1001,202,/product/201,view,2,2025-03-18 15:16:59,2025-03-23 15:16:59,0.19,Email,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+377,1001,202,/product/202,view,10,2025-03-16 15:16:59,2025-03-23 15:16:59,0.83,,
+378,1002,204,/product/205,add_to_cart,5,2025-03-12 15:16:59,2025-03-23 15:16:59,0.42,SMS,Hey User 1002! We noticed you haven’t visited in a while. Check out our latest offers!
+379,1001,204,/product/203,view,5,2025-03-09 15:16:59,2025-03-23 15:16:59,0.41,Push,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+380,1004,204,/product/204,view,2,2025-02-28 15:16:59,2025-03-23 15:16:59,0.17,Push,Hey User 1004! We noticed you haven’t visited in a while. Check out our latest offers!
+381,1005,202,/product/205,purchase,7,2025-02-25 15:16:59,2025-03-23 15:16:59,0.57,,
+382,1003,204,/product/205,purchase,10,2025-03-23 15:16:59,2025-03-23 15:16:59,1.0,,
+383,1002,202,/product/201,add_to_cart,2,2025-03-10 15:16:59,2025-03-23 15:16:59,0.17,SMS,Hey User 1002! We noticed you haven’t visited in a while. Check out our latest offers!
+384,1001,205,/product/204,view,8,2025-03-05 15:16:59,2025-03-23 15:16:59,0.65,,
+385,1003,203,/product/203,click,3,2025-03-05 15:16:59,2025-03-23 15:16:59,0.25,Email,Hey User 1003! We noticed you haven’t visited in a while. Check out our latest offers!
+386,1002,205,/product/204,add_to_cart,3,2025-02-25 15:16:59,2025-03-23 15:16:59,0.25,Push,Hey User 1002! We noticed you haven’t visited in a while. Check out our latest offers!
+387,1003,203,/product/203,click,2,2025-03-17 15:16:59,2025-03-23 15:16:59,0.19,Push,Hey User 1003! We noticed you haven’t visited in a while. Check out our latest offers!
+388,1003,201,/product/202,click,4,2025-03-22 15:16:59,2025-03-23 15:16:59,0.42,,
+389,1001,201,/product/201,click,7,2025-03-09 15:16:59,2025-03-23 15:16:59,0.57,,
+390,1005,201,/product/202,add_to_cart,6,2025-03-14 15:16:59,2025-03-23 15:16:59,0.5,,
+391,1003,203,/product/202,click,4,2025-02-21 15:16:59,2025-03-23 15:16:59,0.33,Push,Hey User 1003! We noticed you haven’t visited in a while. Check out our latest offers!
+392,1003,201,/product/202,purchase,9,2025-03-02 15:16:59,2025-03-23 15:16:59,0.73,,
+393,1003,201,/product/203,purchase,6,2025-03-15 15:16:59,2025-03-23 15:16:59,0.5,,
+394,1001,203,/product/204,view,2,2025-03-17 15:16:59,2025-03-23 15:16:59,0.19,Push,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+395,1004,202,/product/204,click,6,2025-03-07 15:16:59,2025-03-23 15:16:59,0.49,Push,Hey User 1004! We noticed you haven’t visited in a while. Check out our latest offers!
+396,1001,205,/product/203,add_to_cart,7,2025-03-03 15:16:59,2025-03-23 15:16:59,0.57,,
+397,1005,202,/product/203,view,6,2025-03-04 15:16:59,2025-03-23 15:16:59,0.49,SMS,Hey User 1005! We noticed you haven’t visited in a while. Check out our latest offers!
+398,1001,201,/product/202,view,8,2025-03-03 15:16:59,2025-03-23 15:16:59,0.65,,
+399,1005,205,/product/201,view,7,2025-03-18 15:16:59,2025-03-23 15:16:59,0.59,,
+400,1005,203,/product/203,click,6,2025-03-03 15:16:59,2025-03-23 15:16:59,0.49,Email,Hey User 1005! We noticed you haven’t visited in a while. Check out our latest offers!
+401,1005,202,/product/201,purchase,4,2025-02-23 15:16:59,2025-03-23 15:16:59,0.33,Push,Hey User 1005! We noticed you haven’t visited in a while. Check out our latest offers!
+402,1005,201,/product/203,add_to_cart,10,2025-03-19 15:16:59,2025-03-23 15:16:59,0.84,,
+403,1001,205,/product/205,view,8,2025-03-11 15:16:59,2025-03-23 15:16:59,0.66,,
+404,1002,201,/product/204,click,3,2025-03-02 15:16:59,2025-03-23 15:16:59,0.25,SMS,Hey User 1002! We noticed you haven’t visited in a while. Check out our latest offers!
+405,1003,204,/product/201,purchase,3,2025-03-06 15:16:59,2025-03-23 15:16:59,0.25,SMS,Hey User 1003! We noticed you haven’t visited in a while. Check out our latest offers!
+406,1004,205,/product/204,click,1,2025-03-13 15:16:59,2025-03-23 15:16:59,0.1,Email,Hey User 1004! We noticed you haven’t visited in a while. Check out our latest offers!
+407,1001,204,/product/201,click,9,2025-03-11 15:16:59,2025-03-23 15:16:59,0.74,,
+408,1001,205,/product/202,click,9,2025-03-09 15:16:59,2025-03-23 15:16:59,0.73,,
+409,1003,205,/product/205,click,7,2025-03-11 15:16:59,2025-03-23 15:16:59,0.58,,
+410,1003,204,/product/202,purchase,2,2025-03-19 15:16:59,2025-03-23 15:16:59,0.2,Email,Hey User 1003! We noticed you haven’t visited in a while. Check out our latest offers!
+411,1005,202,/product/203,add_to_cart,9,2025-03-03 15:16:59,2025-03-23 15:16:59,0.73,,
+412,1001,202,/product/204,click,3,2025-03-01 15:16:59,2025-03-23 15:16:59,0.25,Push,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+413,1003,203,/product/202,view,4,2025-03-21 15:16:59,2025-03-23 15:16:59,0.39,,
+414,1002,204,/product/203,view,8,2025-03-16 15:16:59,2025-03-23 15:16:59,0.67,,
+415,1003,201,/product/203,click,10,2025-03-12 15:16:59,2025-03-23 15:16:59,0.82,,
+416,1002,203,/product/202,add_to_cart,4,2025-03-08 15:16:59,2025-03-23 15:16:59,0.33,Email,Hey User 1002! We noticed you haven’t visited in a while. Check out our latest offers!
+417,1003,205,/product/203,click,10,2025-03-12 15:16:59,2025-03-23 15:16:59,0.82,,
+418,1005,201,/product/204,add_to_cart,5,2025-02-26 15:16:59,2025-03-23 15:16:59,0.41,Push,Hey User 1005! We noticed you haven’t visited in a while. Check out our latest offers!
+419,1005,205,/product/205,view,10,2025-02-24 15:16:59,2025-03-23 15:16:59,0.81,,
+420,1001,205,/product/202,add_to_cart,4,2025-03-11 15:16:59,2025-03-23 15:16:59,0.34,Email,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+421,1005,202,/product/204,purchase,5,2025-03-19 15:16:59,2025-03-23 15:16:59,0.44,SMS,Hey User 1005! We noticed you haven’t visited in a while. Check out our latest offers!
+422,1003,204,/product/202,add_to_cart,9,2025-02-25 15:16:59,2025-03-23 15:16:59,0.73,,
+423,1003,203,/product/204,add_to_cart,8,2025-03-17 15:16:59,2025-03-23 15:16:59,0.67,,
+424,1004,202,/product/202,view,10,2025-02-24 15:16:59,2025-03-23 15:16:59,0.81,,
+425,1002,202,/product/203,click,7,2025-02-24 15:16:59,2025-03-23 15:16:59,0.57,,
+426,1001,203,/product/202,add_to_cart,2,2025-03-04 15:16:59,2025-03-23 15:16:59,0.17,Email,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+427,1002,201,/product/205,click,10,2025-03-03 15:16:59,2025-03-23 15:16:59,0.81,,
+428,1004,204,/product/201,add_to_cart,3,2025-03-10 15:16:59,2025-03-23 15:16:59,0.25,Push,Hey User 1004! We noticed you haven’t visited in a while. Check out our latest offers!
+429,1003,203,/product/201,purchase,3,2025-03-02 15:16:59,2025-03-23 15:16:59,0.25,SMS,Hey User 1003! We noticed you haven’t visited in a while. Check out our latest offers!
+430,1005,202,/product/205,view,8,2025-03-15 15:16:59,2025-03-23 15:16:59,0.66,,
+431,1004,204,/product/205,add_to_cart,4,2025-03-17 15:16:59,2025-03-23 15:16:59,0.35,SMS,Hey User 1004! We noticed you haven’t visited in a while. Check out our latest offers!
+432,1001,205,/product/205,purchase,1,2025-03-11 15:16:59,2025-03-23 15:16:59,0.1,Email,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+433,1004,204,/product/203,click,10,2025-03-15 15:16:59,2025-03-23 15:16:59,0.82,,
+434,1003,202,/product/205,add_to_cart,6,2025-02-26 15:16:59,2025-03-23 15:16:59,0.49,Email,Hey User 1003! We noticed you haven’t visited in a while. Check out our latest offers!
+435,1001,202,/product/204,view,1,2025-03-10 15:16:59,2025-03-23 15:16:59,0.09,SMS,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+436,1005,202,/product/201,click,8,2025-02-21 15:16:59,2025-03-23 15:16:59,0.65,,
+437,1004,201,/product/201,view,8,2025-03-05 15:16:59,2025-03-23 15:16:59,0.65,,
+438,1002,204,/product/202,view,5,2025-03-15 15:16:59,2025-03-23 15:16:59,0.42,SMS,Hey User 1002! We noticed you haven’t visited in a while. Check out our latest offers!
+439,1003,204,/product/202,purchase,10,2025-03-06 15:16:59,2025-03-23 15:16:59,0.81,,
+440,1001,201,/product/205,view,1,2025-02-22 15:16:59,2025-03-23 15:16:59,0.09,Push,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+441,1005,201,/product/202,add_to_cart,7,2025-03-08 15:16:59,2025-03-23 15:16:59,0.57,,
+442,1004,201,/product/202,click,2,2025-03-01 15:16:59,2025-03-23 15:16:59,0.17,SMS,Hey User 1004! We noticed you haven’t visited in a while. Check out our latest offers!
+443,1002,202,/product/204,add_to_cart,5,2025-02-21 15:16:59,2025-03-23 15:16:59,0.41,Email,Hey User 1002! We noticed you haven’t visited in a while. Check out our latest offers!
+444,1002,201,/product/204,view,7,2025-03-01 15:16:59,2025-03-23 15:16:59,0.57,,
+445,1005,201,/product/202,purchase,3,2025-02-21 15:16:59,2025-03-23 15:16:59,0.25,Push,Hey User 1005! We noticed you haven’t visited in a while. Check out our latest offers!
+446,1003,204,/product/201,view,8,2025-03-21 15:16:59,2025-03-23 15:16:59,0.71,,
+447,1001,205,/product/204,add_to_cart,3,2025-02-28 15:16:59,2025-03-23 15:16:59,0.25,SMS,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+448,1004,202,/product/202,view,9,2025-03-16 15:16:59,2025-03-23 15:16:59,0.75,,
+449,1003,201,/product/201,click,10,2025-02-22 15:16:59,2025-03-23 15:16:59,0.81,,
+450,1001,204,/product/201,click,4,2025-03-19 15:16:59,2025-03-23 15:16:59,0.36,Push,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+451,1001,201,/product/205,click,5,2025-03-08 15:16:59,2025-03-23 15:16:59,0.41,Push,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+452,1001,202,/product/205,view,7,2025-03-15 15:16:59,2025-03-23 15:16:59,0.58,,
+453,1005,203,/product/203,click,8,2025-03-19 15:16:59,2025-03-23 15:16:59,0.68,,
+454,1005,204,/product/204,purchase,1,2025-03-20 15:16:59,2025-03-23 15:16:59,0.13,,
+455,1004,202,/product/201,view,6,2025-02-25 15:16:59,2025-03-23 15:16:59,0.49,Push,Hey User 1004! We noticed you haven’t visited in a while. Check out our latest offers!
+456,1002,201,/product/203,view,2,2025-02-22 15:16:59,2025-03-23 15:16:59,0.17,SMS,Hey User 1002! We noticed you haven’t visited in a while. Check out our latest offers!
+457,1005,204,/product/202,purchase,3,2025-03-14 15:16:59,2025-03-23 15:16:59,0.26,Email,Hey User 1005! We noticed you haven’t visited in a while. Check out our latest offers!
+458,1004,202,/product/204,view,5,2025-03-19 15:16:59,2025-03-23 15:16:59,0.44,SMS,Hey User 1004! We noticed you haven’t visited in a while. Check out our latest offers!
+459,1003,204,/product/205,view,1,2025-03-08 15:16:59,2025-03-23 15:16:59,0.09,Email,Hey User 1003! We noticed you haven’t visited in a while. Check out our latest offers!
+460,1003,203,/product/202,view,3,2025-03-11 15:16:59,2025-03-23 15:16:59,0.26,SMS,Hey User 1003! We noticed you haven’t visited in a while. Check out our latest offers!
+461,1001,203,/product/201,purchase,8,2025-03-20 15:16:59,2025-03-23 15:16:59,0.69,,
+462,1004,204,/product/205,add_to_cart,8,2025-03-15 15:16:59,2025-03-23 15:16:59,0.66,,
+463,1005,204,/product/202,add_to_cart,10,2025-03-16 15:16:59,2025-03-23 15:16:59,0.83,,
+464,1005,205,/product/201,purchase,5,2025-02-27 15:16:59,2025-03-23 15:16:59,0.41,SMS,Hey User 1005! We noticed you haven’t visited in a while. Check out our latest offers!
+465,1002,204,/product/202,click,6,2025-03-19 15:16:59,2025-03-23 15:16:59,0.52,,
+466,1002,201,/product/205,purchase,1,2025-02-26 15:16:59,2025-03-23 15:16:59,0.09,Push,Hey User 1002! We noticed you haven’t visited in a while. Check out our latest offers!
+467,1005,204,/product/205,view,8,2025-03-01 15:16:59,2025-03-23 15:16:59,0.65,,
+468,1004,201,/product/204,purchase,7,2025-03-01 15:16:59,2025-03-23 15:16:59,0.57,,
+469,1005,205,/product/202,click,10,2025-03-15 15:16:59,2025-03-23 15:16:59,0.82,,
+470,1001,205,/product/202,view,8,2025-03-16 15:16:59,2025-03-23 15:16:59,0.67,,
+471,1002,205,/product/202,purchase,6,2025-02-27 15:16:59,2025-03-23 15:16:59,0.49,Email,Hey User 1002! We noticed you haven’t visited in a while. Check out our latest offers!
+472,1003,203,/product/204,add_to_cart,7,2025-03-01 15:16:59,2025-03-23 15:16:59,0.57,,
+473,1005,203,/product/205,click,3,2025-03-01 15:16:59,2025-03-23 15:16:59,0.25,SMS,Hey User 1005! We noticed you haven’t visited in a while. Check out our latest offers!
+474,1005,205,/product/205,purchase,9,2025-03-08 15:16:59,2025-03-23 15:16:59,0.73,,
+475,1005,201,/product/204,add_to_cart,2,2025-02-22 15:16:59,2025-03-23 15:16:59,0.17,Email,Hey User 1005! We noticed you haven’t visited in a while. Check out our latest offers!
+476,1001,203,/product/204,view,5,2025-03-23 15:16:59,2025-03-23 15:16:59,0.6,,
+477,1005,203,/product/203,add_to_cart,3,2025-03-19 15:16:59,2025-03-23 15:16:59,0.28,Email,Hey User 1005! We noticed you haven’t visited in a while. Check out our latest offers!
+478,1003,202,/product/203,add_to_cart,1,2025-03-06 15:16:59,2025-03-23 15:16:59,0.09,SMS,Hey User 1003! We noticed you haven’t visited in a while. Check out our latest offers!
+479,1003,203,/product/204,view,2,2025-02-25 15:16:59,2025-03-23 15:16:59,0.17,Push,Hey User 1003! We noticed you haven’t visited in a while. Check out our latest offers!
+480,1004,203,/product/201,purchase,4,2025-03-20 15:16:59,2025-03-23 15:16:59,0.37,,
+481,1005,201,/product/203,purchase,4,2025-03-17 15:16:59,2025-03-23 15:16:59,0.35,SMS,Hey User 1005! We noticed you haven’t visited in a while. Check out our latest offers!
+482,1004,201,/product/205,purchase,8,2025-03-01 15:16:59,2025-03-23 15:16:59,0.65,,
+483,1001,205,/product/201,add_to_cart,10,2025-03-04 15:16:59,2025-03-23 15:16:59,0.81,,
+484,1004,205,/product/204,view,7,2025-03-14 15:16:59,2025-03-23 15:16:59,0.58,,
+485,1004,203,/product/204,purchase,8,2025-03-11 15:16:59,2025-03-23 15:16:59,0.66,,
+486,1001,202,/product/202,click,1,2025-03-15 15:16:59,2025-03-23 15:16:59,0.1,Push,Hey User 1001! We noticed you haven’t visited in a while. Check out our latest offers!
+487,1003,203,/product/203,purchase,9,2025-03-22 15:16:59,2025-03-23 15:16:59,0.82,,
+488,1005,202,/product/202,click,9,2025-03-05 15:16:59,2025-03-23 15:16:59,0.73,,
+489,1003,203,/product/204,purchase,3,2025-03-17 15:16:59,2025-03-23 15:16:59,0.27,SMS,Hey User 1003! We noticed you haven’t visited in a while. Check out our latest offers!
+490,1002,204,/product/201,purchase,1,2025-03-12 15:16:59,2025-03-23 15:16:59,0.1,SMS,Hey User 1002! We noticed you haven’t visited in a while. Check out our latest offers!
+491,1004,202,/product/203,click,7,2025-03-06 15:16:59,2025-03-23 15:16:59,0.57,,
+492,1005,204,/product/203,view,9,2025-03-11 15:16:59,2025-03-23 15:16:59,0.74,,
+493,1005,201,/product/203,view,10,2025-03-11 15:16:59,2025-03-23 15:16:59,0.82,,
+494,1002,204,/product/205,add_to_cart,3,2025-03-18 15:16:59,2025-03-23 15:16:59,0.27,Push,Hey User 1002! We noticed you haven’t visited in a while. Check out our latest offers!
+495,1005,202,/product/202,view,9,2025-03-23 15:16:59,2025-03-23 15:16:59,0.92,,
+496,1004,202,/product/201,view,6,2025-03-20 15:16:59,2025-03-23 15:16:59,0.53,,
+497,1003,204,/product/203,purchase,2,2025-03-03 15:16:59,2025-03-23 15:16:59,0.17,Email,Hey User 1003! We noticed you haven’t visited in a while. Check out our latest offers!
+498,1005,204,/product/205,click,5,2025-03-22 15:16:59,2025-03-23 15:16:59,0.5,,
+499,1005,205,/product/203,click,6,2025-03-17 15:16:59,2025-03-23 15:16:59,0.51,,
+500,1001,203,/product/205,click,7,2025-03-17 15:16:59,2025-03-23 15:16:59,0.59,,
