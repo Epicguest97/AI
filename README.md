@@ -4,6 +4,11 @@ Welcome to my AI and Machine Learning portfolio. This repository is a comprehens
 
 ---
 
+## 🎯 Goals & Interests
+Passionate about AI research, model deployment, and solving real-world challenges with machine learning. Open to opportunities in AI-driven product development, NLP, and computer vision.
+
+---
+
 ## 🔹 Key Highlights
 
 ### 🏛 Classical Machine Learning Implementations
@@ -19,7 +24,7 @@ A strong foundation in traditional machine learning techniques:
 
 ### 🚀 Advanced AI & Deep Learning Implementations
 Cutting-edge deep learning models for various applications:
-- **Transformers:** Custom-built transformer-based models for sequence modeling and NLP tasks ([code](lhttps://github.com/Epicguest97/AI/blob/main/Paper_implementation/10_transformers-from-scratch.ipynb)).
+- **Transformers:** Custom-built transformer-based models for sequence modeling and NLP tasks ([code](https://github.com/Epicguest97/AI/blob/main/Paper_implementation/10_transformers-from-scratch.ipynb)).
 - **UNet:** Image segmentation model widely used in medical imaging and object segmentation ([code](https://github.com/Epicguest97/AI/blob/main/Paper_implementation/UNet%20In%20Action.ipynb)).
 - **YOLO (You Only Look Once):** Real-time object detection framework ([code](https://github.com/Epicguest97/AI/blob/main/Paper_implementation/YOLO.ipynb)).
 
@@ -32,54 +37,32 @@ Real-world AI applications demonstrating problem-solving skills:
 - **User Behavior Analysis:** Analyzing web engagement patterns using machine learning ([code](https://github.com/Epicguest97/AI/tree/main/Projects/undertanding_user_behaviour)).
 - **Custom ML Library (Libariris):** Designed and implemented a machine learning library for streamlined workflows ([code](link_here)).
 
-### 🧠 Deep Learning Models
-- **Feedforward Neural Networks (FNN) & Convolutional Neural Networks (CNN) for MNIST:** Deep learning models for image classification ([code](https://github.com/Epicguest97/AI/blob/main/Implementation/Neural_networks/fnn.ipynb)).
-- **Pretrained Models:** Includes `mnist_cnn.pth` and other trained models optimized for performance ([code](https://github.com/Epicguest97/AI/blob/main/Implementation/Neural_networks/MNIST/notebook1.ipynb)).
+### 🏆 Notable Achievements
+- **Kaggle Competitions:** Participated in multiple challenges, including interstellar travel prediction.
+- **Research Contributions:** Implemented state-of-the-art models from academic papers.
+- **CTF Challenges:** Experience in AI-driven cybersecurity challenges.
 
-### 📊 Datasets Utilized
-A diverse set of datasets used across different ML and AI domains:
-- **Tabular Data:**
-  - **Iris**, **Titanic**, **Car Prices**, **Heart Disease**, **Country Dataset** – for classification, regression, and predictive modeling.
-- **Image Data:**
-  - **MNIST** (handwritten digit recognition), **CIFAR-10** (object classification), **Traffic Sign Dataset** (real-time object detection).
-- **Text & NLP Data:**
-  - **SMS Spam Collection** (spam detection), **IMDB Reviews** (sentiment analysis), **News Categorization** (topic classification).
-- **Time-Series Data:**
-  - **Stock Market Datasets** (price forecasting and trend analysis).
-- **Custom Data:**
-  - User behavior logs for clickstream analysis and engagement modeling.
+### 📜 Certifications & Courses
+- **Deep Learning Specialization – Coursera (Andrew Ng)**
+- **Advanced Computer Vision – Udacity**
+- **Machine Learning – Stanford University**
 
-[Explore all datasets here](https://github.com/Epicguest97/AI/tree/main/Datasets).
-
----
-
-## 🛠 Skills & Technologies
+### 🛠 Skills & Technologies
 - **Machine Learning:** Linear & Logistic Regression, SVM, KNN, Clustering, PCA, t-SNE, Random Forest, XGBoost, LightGBM, AdaBoost, Bagging.
 - **Deep Learning:** TensorFlow, PyTorch, Transformers, CNNs, NLP.
 - **Computer Vision:** OpenCV, Object Detection, Image Segmentation.
 - **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn.
 - **Software & Deployment:** GitHub, Vercel, Model Deployment.
 
----
-
-## 🎯 Why This Matters
-This repository demonstrates my ability to implement both foundational and cutting-edge AI models. It reflects my expertise in data-driven problem solving, model optimization, and real-world AI applications, making me a strong candidate for AI and machine learning roles.
-
-For more details, explore the repository and its implementations.
+### 🔮 Future Plans
+- Exploring reinforcement learning applications.
+- Optimizing transformer models for handwritten text recognition.
+- Researching AI-driven user retention strategies.
 
 ---
 
-## 🔗 Links to All Projects and Implementations
-- **[Full Repository](https://github.com/Epicguest97/AI)**
-- **[Classical Machine Learning Implementations](https://github.com/Epicguest97/AI/tree/main/Implementation/Classical_algos)**
-- **[Transformers Implementation](https://github.com/Epicguest97/AI/blob/main/Paper_implementation/10_transformers-from-scratch.ipynb)**
-- **[UNet Implementation](https://github.com/Epicguest97/AI/blob/main/Paper_implementation/UNet%20In%20Action.ipynb)**
-- **[YOLO Implementation](https://github.com/Epicguest97/AI/blob/main/Paper_implementation/YOLO.ipynb)**
-- **[Stock Price Prediction](https://github.com/Epicguest97/AI/tree/main/Projects/Stock_price_predict)**
-- **[Spam Detection](https://github.com/Epicguest97/AI/tree/main/Projects/Spam_detection)**
-- **[Handwritten Text Recognition](https://github.com/Epicguest97/AI/tree/main/Projects/live-handwritten)**
-- **[Traffic Sign Detection](https://github.com/Epicguest97/AI/tree/main/Projects/traffic_sign_detction)**
-- **[User Behavior Analysis](https://github.com/Epicguest97/AI/tree/main/Projects/undertanding_user_behaviour)**
-- **[Datasets Used](https://github.com/Epicguest97/AI/tree/main/Datasets)**
+## 🔗 Connect with Me
+- **GitHub:** [Epicguest97](https://github.com/Epicguest97)
+- **Hugging Face:** [Epicguest97](https://huggingface.co/Epicguest97)
+- **LinkedIn:** [Profile](https://www.linkedin.com/in/mehul-kaushik-7b3984337/)
 
-MY HUGGINGFACE REPO for more-[here](https://huggingface.co/Epicguest97)
