@@ -2,12 +2,12 @@
 
 Welcome to my AI and Machine Learning portfolio. This repository is a comprehensive showcase of my expertise, covering classical machine learning, deep learning, computer vision, natural language processing, and applied machine learning. It includes implementations of foundational ML models, advanced AI architectures, research paper replications, and real-world applications.
 
----
+
 
 ## 🎯 Goals & Interests
 Passionate about AI research, model deployment, and solving real-world challenges with machine learning. Open to opportunities in AI-driven product development, NLP, and computer vision.
 
----
+
 
 ## 🔹 Key Highlights
 
