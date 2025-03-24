@@ -9,7 +9,7 @@ Welcome to my AI and Machine Learning portfolio. This repository is a comprehens
 ### 🏛 Classical Machine Learning Implementations
 A strong foundation in traditional machine learning techniques:
 - **Supervised Learning:**
-  - Linear Regression, Logistic Regression, Support Vector Machines (SVM), k-Nearest Neighbors (KNN) ([code]([here](https://github.com/Epicguest97/AI/tree/main/Implementation/Classical_algos))).
+  - Linear Regression, Logistic Regression, Support Vector Machines (SVM), k-Nearest Neighbors (KNN) ([code](https://github.com/Epicguest97/AI/tree/main/Implementation/Classical_algos)).
 - **Unsupervised Learning:**
   - K-Means Clustering, Hierarchical Clustering, and Principal Component Analysis (PCA) ([code](link_here)).
 - **Dimensionality Reduction:**
